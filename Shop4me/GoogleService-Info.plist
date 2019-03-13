@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>274274081005-sq57qakm0skejhhm6cu9s9q83qsnm5ec.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.274274081005-sq57qakm0skejhhm6cu9s9q83qsnm5ec</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA_fnmtXNfslSqo4-K7wyQV5QVfw1bfhS8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>274274081005</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ug.co.Shop4me</string>
+	<key>PROJECT_ID</key>
+	<string>shop4me-5b1ad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shop4me-5b1ad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:274274081005:ios:3c3e1a2e330a92bd</string>
+	<key>DATABASE_URL</key>
+	<string>https://shop4me-5b1ad.firebaseio.com</string>
+</dict>
+</plist>
